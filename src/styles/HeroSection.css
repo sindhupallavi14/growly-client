@@ -1,0 +1,22 @@
+.hero-section {
+  min-height: 100vh;
+  display: flex;
+  align-items: center;
+  background-color:#4b62b2;
+  padding: 60px 0;
+}
+
+.hero-section h1 {
+  font-size: 2.8rem;
+  line-height: 1.3;
+}
+
+.hero-section p {
+  font-size: 1.2rem;
+}
+
+.hero-section img {
+  max-width: 100%;
+  height: 400px;
+  margin-left: 230px;
+}
