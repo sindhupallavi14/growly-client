@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/growly-client/static/css/main.497cd1fc.css",
+    "main.js": "/growly-client/static/js/main.475efe47.js",
+    "index.html": "/growly-client/index.html",
+    "main.497cd1fc.css.map": "/growly-client/static/css/main.497cd1fc.css.map",
+    "main.475efe47.js.map": "/growly-client/static/js/main.475efe47.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.497cd1fc.css",
+    "static/js/main.475efe47.js"
+  ]
+}
