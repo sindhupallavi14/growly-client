@@ -20,11 +20,11 @@ export default function HeroSection() {
             </Button>
           </Col>
           <Col md={6}>
-            <img
-              src="/Images/hero.jpg"
-              // alt="AI ad illustration"
-            //   className="img-fluid rounded shadow-lg"
-            />
+            // <img
+            //   src="/Images/hero.jpg"
+            //   alt="AI ad illustration"
+            // //   className="img-fluid rounded shadow-lg"
+            // />
           </Col>
         </Row>
       </Container>
