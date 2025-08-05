@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/growly-client/static/css/main.497cd1fc.css",
-    "main.js": "/growly-client/static/js/main.fbc48749.js",
+    "main.js": "/growly-client/static/js/main.b525c1b8.js",
     "index.html": "/growly-client/index.html",
     "main.497cd1fc.css.map": "/growly-client/static/css/main.497cd1fc.css.map",
-    "main.fbc48749.js.map": "/growly-client/static/js/main.fbc48749.js.map"
+    "main.b525c1b8.js.map": "/growly-client/static/js/main.b525c1b8.js.map"
   },
   "entrypoints": [
     "static/css/main.497cd1fc.css",
-    "static/js/main.fbc48749.js"
+    "static/js/main.b525c1b8.js"
   ]
 }
