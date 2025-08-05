@@ -18,7 +18,7 @@ This repository contains the **React frontend** of Growly — a modern, responsi
    ```bash
    git clone https://github.com/sindhupallavi14/growly-client.git
    cd growly-client
-````
+
 
 2. Install dependencies:
 
